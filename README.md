@@ -32,7 +32,7 @@ The 3th testing.
 ![one pic](http://img.blog.csdn.net/20160128114839337)
 
 链接：
-[baidu](baidu.com)
+[baidu](http://baidu.com)
 
 **加粗加粗试试**
 
