@@ -1,4 +1,5 @@
 #Git is a version control system.And it is free.
+***
 Now I'm using it and learning it.
 
 The 2th testing.
@@ -48,6 +49,6 @@ The 3th testing.
     dispatch_after(popTime, dispatch_get_main_queue(), ^(void){
         [self loadImageSource:imgUrl1];
     });`
-
+这个只适合单行代码
 
 结束
