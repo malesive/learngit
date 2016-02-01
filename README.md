@@ -50,6 +50,6 @@ The 3th testing.
     dispatch_after(popTime, dispatch_get_main_queue(), ^(void){
         [self loadImageSource:imgUrl1];
     });`
-这个只适合单行代码
+`这个只适合单行代码`
 
 结束
