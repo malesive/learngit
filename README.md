@@ -41,5 +41,13 @@ The 3th testing.
 再试试代码框
 `size_t count = 10;`
 
+多来点
+`NSLog(@"Delay 2 seconds");
+    double delayInSeconds = 2.0;
+    dispatch_time_t popTime = dispatch_time(DISPATCH_TIME_NOW, delayInSeconds * NSEC_PER_SEC);
+    dispatch_after(popTime, dispatch_get_main_queue(), ^(void){
+        [self loadImageSource:imgUrl1];
+    });`
+
 
 结束
