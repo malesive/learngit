@@ -26,5 +26,11 @@ The 3th testing.
 1. 士官1
 2. 士官2
 3. 士官3
+这回车真是揪心
+
+插个图片：
+![one pic](http://img.blog.csdn.net/20160128114839337)
+链接：
+[baidu](baidu.com)
 
 结束
