@@ -32,6 +32,7 @@ The 3th testing.
 
 插个图片：
 ![one pic](http://img.blog.csdn.net/20160128114839337)
+![new pic](https://github.com/malesive/learngit/blob/master/github.io%20backup/images/testImage.jpg)
 
 链接：
 [baidu](http://baidu.com)
